@@ -9,15 +9,13 @@ export default function Header (props) {
     return (<>
     <img src="https://i.imgur.com/EEuBkkM.png" alt="logo" style={
         {
-            "width": "30%",
+            "width": "25%",
             "height": "25%",
             "margin-left": "35%",
             "border-radius": "10px"
             }
         }/>
     <HeaderContainer>
-        
-        
         <br></br>
         <NavContainer>
             <NavLinkWrapper href="https://github.com/rawlenightlong" target="_blank" rel="noopener noreferrer">

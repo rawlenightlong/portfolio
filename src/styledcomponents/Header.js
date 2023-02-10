@@ -13,6 +13,8 @@ export const NavContainer = styled.nav`
 display: flex;
 justify-content: space-around;
 flex-wrap: wrap;
+font-family: 'Merienda', cursive;
+font-size: 20px;
 `
 
 export const NavLinkWrapper = styled.a`

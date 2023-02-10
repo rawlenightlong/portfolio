@@ -3,11 +3,11 @@ import theme from "../json/theme.json"
 
 export const BioContainer = styled.section`
 text-align: center;
-background-color: ${theme.color5};
+background-color: #fae29b;
 padding: 20px;
 margin: auto;
-color: ${theme.color4};
-border-radius: 5px;
+color: ${theme.color1};
+
 
 `
 export const BioImage = styled.img`

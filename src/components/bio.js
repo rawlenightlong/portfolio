@@ -6,7 +6,7 @@ export function Bio(props){
 return (<>
 
 <BioContainer>
-    <h1> {aboutus.name}</h1><h4>{aboutus.email}</h4><br></br>
+    <h1 style={{"font-family": "'Comfortaa', cursive;"}}> {aboutus.name}</h1><h5>{aboutus.email}</h5><br></br>
     <BioImage src={aboutus.image}/>
     <br></br><br></br>
     <BioDescriptionContainer>{aboutus.bio}</BioDescriptionContainer>
