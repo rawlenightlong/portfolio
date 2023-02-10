@@ -1,8 +1,8 @@
 [
     {
         "image": "https://i.imgur.com/iT40CMe.png",
-        "name": "Movie Quotes App",
-        "description": "A full Express.js & Node.js web app where users can store their favorite movie quotes",
+        "name": "Marvelous Movies",
+        "description": "An Express.js & MongoDB application where users can store their favorite movie quotes!",
         "github": "https://github.com/rawlenightlong/movieQuotes",
         "live": "https://moviequoteapp.onrender.com/"
     },

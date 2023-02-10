@@ -8,7 +8,7 @@ export default function Header (props) {
     return (<>
     
     <HeaderContainer>
-        <h1>My Portfolio</h1>
+        <h1>Rawle's Dev Portfolio</h1>
         <br></br>
         <NavContainer>
             <NavLinkWrapper href="https://github.com/rawlenightlong">
