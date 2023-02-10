@@ -9,10 +9,10 @@
 
     {
         "image": "https://i.imgur.com/iT40CMe.png",
-        "name": "Project 2",
-        "description": "description",
-        "github": "github link",
-        "live": "netlify link"
+        "name": "CETAMD",
+        "description": "Group Project: Full Stack MERN app implementing Google Maps & Places API to track users concerts/events.",
+        "github": "https://github.com/rawlenightlong/cetamdfrontend",
+        "live": "https://cetamdreact.netlify.app/"
     },
 
     {
