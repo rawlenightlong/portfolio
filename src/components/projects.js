@@ -13,8 +13,8 @@ export default function Projects(props){
                     <img src={project.image} alt="whatup"/>
                     <ProjectDescription>{project.description}</ProjectDescription>
                     <ProjectLinkContainer>
-                        <ProjectLink href={project.github}>Github</ProjectLink>
-                        <ProjectLink href={project.live}>Live Site</ProjectLink>
+                        <ProjectLink href={project.github} target="_blank" rel="noopener noreferrer">Github</ProjectLink>
+                        <ProjectLink href={project.live} target="_blank" rel="noopener noreferrer">Live Site</ProjectLink>
                     </ProjectLinkContainer>
                 </ProjectCard>
             })
