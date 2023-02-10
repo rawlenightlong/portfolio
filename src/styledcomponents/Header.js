@@ -3,8 +3,8 @@ import theme from "../json/theme.json"
 
 
 export const HeaderContainer = styled.header`
-padding: 10px;
 text-align: center;
+padding-bottom: 15px;
 background-color: ${theme.color1};
 color: ${theme.color4};
 `

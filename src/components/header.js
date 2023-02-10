@@ -7,10 +7,17 @@ import resume from "../assets/Resume.pdf"
 
 export default function Header (props) {
     return (<>
-    
+    <img src="https://i.imgur.com/EEuBkkM.png" alt="logo" style={
+        {
+            "width": "30%",
+            "height": "25%",
+            "margin-left": "35%",
+            "border-radius": "10px"
+            }
+        }/>
     <HeaderContainer>
         
-        <img src="https://i.imgur.com/ENlv9wj.png" alt="logo" style={{"width": "35%", "height": "35%"}}/>
+        
         <br></br>
         <NavContainer>
             <NavLinkWrapper href="https://github.com/rawlenightlong" target="_blank" rel="noopener noreferrer">
