@@ -12,6 +12,7 @@ margin: auto;
 `
 export const ProjectCard = styled.div`
 width: 30%;
+height: 320px;
 min-width: 290px;
 text-align: center;
 margin: 10px;
@@ -43,11 +44,12 @@ border-radius: 10px;
 `
 
 export const ProjectDescription = styled.p`
-margin-bottom: 10px;
+margin-bottom: 5px;
 `
 
 export const ProjectLinkContainer = styled.div`
 display: flex;
 margin: auto;
-justify-content: center;
+padding-top: 15px;
+justify-content: space-around;
 `

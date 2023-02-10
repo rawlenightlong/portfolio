@@ -10,7 +10,7 @@
     {
         "image": "https://i.imgur.com/iT40CMe.png",
         "name": "CETAMD",
-        "description": "Group Project: Full Stack MERN app implementing Google Maps & Places API to track users concerts/events.",
+        "description": "Full Stack MERN app implementing Google Maps & Places API to track users' concerts/events.",
         "github": "https://github.com/rawlenightlong/cetamdfrontend",
         "live": "https://cetamdreact.netlify.app/"
     },
