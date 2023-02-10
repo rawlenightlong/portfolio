@@ -1,14 +1,14 @@
 [
     {
-        "image": "",
-        "name": "Project 1",
-        "description": "description",
-        "github": "github link",
-        "live": "netlify link"
+        "image": "https://i.imgur.com/iT40CMe.png",
+        "name": "Movie Quotes App",
+        "description": "A full Express.js & Node.js web app where users can store their favorite movie quotes",
+        "github": "https://github.com/rawlenightlong/movieQuotes",
+        "live": "https://moviequoteapp.onrender.com/"
     },
 
     {
-        "image": "",
+        "image": "https://i.imgur.com/iT40CMe.png",
         "name": "Project 2",
         "description": "description",
         "github": "github link",
@@ -16,7 +16,7 @@
     },
 
     {
-        "image": "",
+        "image": "https://i.imgur.com/iT40CMe.png",
         "name": "Project 3",
         "description": "description",
         "github": "github link",

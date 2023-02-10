@@ -1,9 +1,9 @@
 {
-    "color1":"#D1D1D1",
-    "color2":"#DBDBDB",
-    "color3":"#85C7F2",
-    "color4":"#636363",
-    "color5":"#4C4C4C",
+    "color1":"#101935",
+    "color2":"#9AD4D6",
+    "color3":"#F2FDFF",
+    "color4":"#DBCBD8",
+    "color5":"#564787",
     "titlefont": "font-family: 'Acme', sans-serif;",
     "textfont": "font-family: 'Merienda', cursive;"
 }
