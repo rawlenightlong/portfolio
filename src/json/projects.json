@@ -1,0 +1,25 @@
+[
+    {
+        "image": "",
+        "name": "Project 1",
+        "description": "description",
+        "github": "github link",
+        "live": "netlify link"
+    },
+
+    {
+        "image": "",
+        "name": "Project 2",
+        "description": "description",
+        "github": "github link",
+        "live": "netlify link"
+    },
+
+    {
+        "image": "",
+        "name": "Project 3",
+        "description": "description",
+        "github": "github link",
+        "live": "netlify link"
+    }
+]
