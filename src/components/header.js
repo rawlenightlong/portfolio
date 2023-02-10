@@ -2,6 +2,7 @@
 import { HeaderContainer } from "../styledcomponents/Header"
 import { NavContainer } from "../styledcomponents/Header"
 import { NavLinkWrapper } from "../styledcomponents/Header"
+import resume from "../assets/Resume.pdf"
 
 
 export default function Header (props) {
@@ -17,7 +18,7 @@ export default function Header (props) {
             <NavLinkWrapper href="https://linkedin.com/in/rawlebecerril" target="_blank" rel="noopener noreferrer">
                 <div>LinkedIn</div>
             </NavLinkWrapper>
-            <NavLinkWrapper href=""><div>Google</div></NavLinkWrapper>
+            <NavLinkWrapper href={resume} download="Rawle Becerril_021023_ATS Resume"><div>Resume</div></NavLinkWrapper>
         </NavContainer>
     </HeaderContainer>
     
