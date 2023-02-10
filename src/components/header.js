@@ -9,7 +9,8 @@ export default function Header (props) {
     return (<>
     
     <HeaderContainer>
-        <h1>Rawle's Dev Portfolio</h1>
+        
+        <img src="https://i.imgur.com/ENlv9wj.png" alt="logo" style={{"width": "35%", "height": "35%"}}/>
         <br></br>
         <NavContainer>
             <NavLinkWrapper href="https://github.com/rawlenightlong" target="_blank" rel="noopener noreferrer">
@@ -19,6 +20,9 @@ export default function Header (props) {
                 <div>LinkedIn</div>
             </NavLinkWrapper>
             <NavLinkWrapper href={resume} download="Rawle Becerril_021023_ATS Resume"><div>Resume</div></NavLinkWrapper>
+            <NavLinkWrapper href="">Contact
+
+            </NavLinkWrapper>
         </NavContainer>
     </HeaderContainer>
     
