@@ -11,7 +11,7 @@ color: ${theme.color1};
 
 `
 export const BioImage = styled.img`
-width: 40%;
+height: 700px;
 object-fit: cover;
 border-radius: 60px;
 ` 

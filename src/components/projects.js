@@ -1,5 +1,6 @@
 import projects from "../json/projects.json"
 import { ProjectsContainer, ProjectCard, ProjectLink, ProjectDescription, ProjectLinkContainer} from "../styledcomponents/Projects"
+import {BsBoxArrowInUpRight} from "react-icons/bs"
 
 export default function Projects(props){
     return (
@@ -13,8 +14,8 @@ export default function Projects(props){
                     <img src={project.image} alt="whatup"/>
                     <ProjectDescription>{project.description}</ProjectDescription>
                     <ProjectLinkContainer>
-                        <ProjectLink href={project.github} target="_blank" rel="noopener noreferrer">Github</ProjectLink>
-                        <ProjectLink href={project.live} target="_blank" rel="noopener noreferrer">Live Site</ProjectLink>
+                        <ProjectLink href={project.github} target="_blank" rel="noopener noreferrer">Github <BsBoxArrowInUpRight/></ProjectLink>
+                        <ProjectLink href={project.live} target="_blank" rel="noopener noreferrer">Live Site <BsBoxArrowInUpRight/></ProjectLink>
                     </ProjectLinkContainer>
                 </ProjectCard>
             })
