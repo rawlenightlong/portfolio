@@ -9,9 +9,8 @@ export default function Header (props) {
     return (<>
     <img src="https://i.imgur.com/EEuBkkM.png" alt="logo" style={
         {
-            "width": "25%",
-            "height": "25%",
-            "margin-left": "35%",
+            "width": "40%",
+            "margin-left": "29%",
             "border-radius": "10px"
             }
         }/>
