@@ -4,7 +4,7 @@ import { NavContainer } from "../styledcomponents/Footer"
 import { NavLinkWrapper } from "../styledcomponents/Header"
 import resume from "../assets/Resume.pdf"
 import {FaGithub} from "react-icons/fa"
-import {AiFillLinkedin, AiOutlineMail, AiOutlineDownload} from "react-icons/ai"
+import {AiFillLinkedin, AiOutlineMail} from "react-icons/ai"
 
 
 export default function Header (props) {

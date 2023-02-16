@@ -2,7 +2,6 @@
 import { HeaderContainer } from "../styledcomponents/Header"
 import { NavContainer } from "../styledcomponents/Header"
 import { NavLinkWrapper } from "../styledcomponents/Header"
-import resume from "../assets/Resume.pdf"
 import { AiOutlineProject } from "react-icons/ai"
 import {RxAvatar} from "react-icons/rx"
 import {BsPencil} from "react-icons/bs"
