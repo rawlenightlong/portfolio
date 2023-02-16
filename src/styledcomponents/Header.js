@@ -12,7 +12,7 @@ color: ${theme.color4};
 border-radius: 5px;
 align-items: center;
 justify-content: center;
-margin-bottom: 50px;
+margin-bottom: 60px;
 `
 
 export const NavContainer = styled.nav`

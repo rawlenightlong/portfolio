@@ -5,13 +5,12 @@ export const BioContainer = styled.section`
 display: flex;
 text-align: center;
 background-color: ${theme.color1};
-padding: 50px;
+padding: 30px;
 margin: auto;
 width: 65%;
 color: ${theme.color3};
-margin-top:50px;
 margin-bottom: 50px;
-border-radius: 10px;
+border-radius: 50px;
 border: 2px solid black;
 height: 720px;
 
@@ -23,7 +22,6 @@ object-fit: fill;
 border: 3px solid black;
 border-radius: 60px;
 border: 2px solid black;
-transition: .2s;
 margin: 10px;
 
 ` 
