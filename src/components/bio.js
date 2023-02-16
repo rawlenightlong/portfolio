@@ -1,5 +1,5 @@
 import aboutus from "../json/aboutus.json"
-import { BioContainer, BioImage, BioDescriptionContainer, BioPictureContainer } from "../styledcomponents/Bio"
+import { BioContainer, BioImage, BioDescriptionContainer } from "../styledcomponents/Bio"
 
 
 export function Bio(props){
