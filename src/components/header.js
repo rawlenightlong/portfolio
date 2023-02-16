@@ -10,7 +10,7 @@ import {BsPencil} from "react-icons/bs"
 
 export default function Header (props) {
     return (<>
-    <img className="logo" src="https://i.imgur.com/EEuBkkM.png" alt="logo" style={
+    <img class="logo" src="https://i.imgur.com/EEuBkkM.png" alt="logo" style={
         {
             "width": "35%",
             "align-items": "center",

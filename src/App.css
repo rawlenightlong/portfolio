@@ -73,7 +73,14 @@ html {
   border-radius: 20px;
 }
 
-.logo {
-  
+img.logo {
+  transition: .2s;
+}
+img.logo:hover{
+  transform: scale(1.05);
+  transition: .2s;
 }
 
+#bio {
+  margin-bottom: 20px;
+}
