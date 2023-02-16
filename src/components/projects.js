@@ -1,11 +1,16 @@
 import projects from "../json/projects.json"
-import { ProjectsContainer, ProjectCard, ProjectLink, ProjectDescription, ProjectLinkContainer} from "../styledcomponents/Projects"
+import { ProjectsContainer, ProjectCard, ProjectLink, ProjectDescription, ProjectLinkContainer, ProjectTitleContainer} from "../styledcomponents/Projects"
 import {BsBoxArrowInUpRight} from "react-icons/bs"
 
 export default function Projects(props){
-    return (
+    return (<>
     
-    <ProjectsContainer>
+    <ProjectTitleContainer>
+            <h2>Projects</h2>
+        </ProjectTitleContainer>
+        
+    <ProjectsContainer id="projects">
+      
         
         {
             projects.map((project) => {
@@ -22,5 +27,5 @@ export default function Projects(props){
         }
     </ProjectsContainer>
     
-    )
+    </>)
 }

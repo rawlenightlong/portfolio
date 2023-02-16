@@ -3,8 +3,9 @@ import { HeaderContainer } from "../styledcomponents/Header"
 import { NavContainer } from "../styledcomponents/Header"
 import { NavLinkWrapper } from "../styledcomponents/Header"
 import resume from "../assets/Resume.pdf"
-import {FaGithub} from "react-icons/fa"
-import {AiFillLinkedin, AiOutlineMail, AiOutlineDownload} from "react-icons/ai"
+import { AiOutlineProject } from "react-icons/ai"
+import {RxAvatar} from "react-icons/rx"
+import {BsPencil} from "react-icons/bs"
 
 
 export default function Header (props) {
@@ -12,7 +13,7 @@ export default function Header (props) {
     <img src="https://i.imgur.com/EEuBkkM.png" alt="logo" style={
         {
             "width": "35%",
-            "margin-left": "30%",
+            "align-items": "center",
             "border-radius": "10px"
             }
         }/>
@@ -20,20 +21,16 @@ export default function Header (props) {
         <br></br>
         <NavContainer>
 
-            <NavLinkWrapper href="https://github.com/rawlenightlong" target="_blank" rel="noopener noreferrer">
-                <div><FaGithub/> Github</div>
+            <NavLinkWrapper href="#bio" rel="noopener noreferrer">
+                <div class="link"><RxAvatar/> About Me</div>
             </NavLinkWrapper>
 
-            <NavLinkWrapper href="https://linkedin.com/in/rawlebecerril" target="_blank" rel="noopener noreferrer">
-                <div><AiFillLinkedin/> LinkedIn</div>
+            <NavLinkWrapper href="#skills" rel="noopener noreferrer">
+                <div class="link"><BsPencil/> Skills</div>
             </NavLinkWrapper>
 
-            <NavLinkWrapper href={resume} download="Rawle Becerril_021023_ATS Resume">
-                <div><AiOutlineDownload/> Resume</div>
-            </NavLinkWrapper>
-
-            <NavLinkWrapper href="">
-                <div><AiOutlineMail/> Contact</div>
+            <NavLinkWrapper href="#projects">
+                <div class="link"><AiOutlineProject/> Projects</div>
             </NavLinkWrapper>
 
         </NavContainer>

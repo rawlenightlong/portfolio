@@ -2,22 +2,44 @@ import styled from 'styled-components'
 import theme from "../json/theme.json"
 
 export const BioContainer = styled.section`
+display: flex;
 text-align: center;
-background-color: #fae29b;
-padding: 20px;
+background-color: ${theme.color1};
+padding: 50px;
 margin: auto;
-color: ${theme.color1};
+width: 65%;
+color: ${theme.color3};
+margin-top:50px;
+margin-bottom: 50px;
+border-radius: 10px;
+border: 2px solid black;
+height: 720px;
 
 
 `
 export const BioImage = styled.img`
-height: 500px;
-object-fit: cover;
+height: 600px;
+object-fit: fill;
+border: 3px solid black;
 border-radius: 60px;
+border: 2px solid black;
+transition: .2s;
+margin: 10px;
+
 ` 
 
 export const BioDescriptionContainer = styled.section`
-width: 60%;
+width: 50%;
 text-align: center;
 margin: auto;
+font-size: 1.3rem;
+border: 2px solid black;
+border-radius: 10px;
+padding: 20px;
+`
+
+export const BioPictureContainer = styled.section`
+display: block;
+padding: 0px;
+height: 400px
 `

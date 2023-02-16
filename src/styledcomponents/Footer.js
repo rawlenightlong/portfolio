@@ -2,23 +2,19 @@ import styled from "styled-components"
 import theme from "../json/theme.json"
 
 
-export const HeaderContainer = styled.header`
+export const FooterContainer = styled.header`
 text-align: center;
 position: sticky;
-top: 0;
-padding-bottom: 15px;
+bottom: 0;
 background-color: ${theme.color1};
 color: ${theme.color4};
-border-radius: 5px;
-align-items: center;
-justify-content: center;
-margin-bottom: 50px;
 `
 
 export const NavContainer = styled.nav`
 display: flex;
 position: sticky;
-top: 0;
+bottom: 0;
+padding-bottom: 20px;
 justify-content: space-around;
 flex-wrap: wrap;
 font-family: 'Comfortaa', cursive;
@@ -34,8 +30,4 @@ color: white;
     transform: scale(1.1);
     transition: .2s;
 }
-&:active{
-    color: yellowl;
-}
-
 `

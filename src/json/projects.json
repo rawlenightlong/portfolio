@@ -21,5 +21,26 @@
         "description": "description",
         "github": "github link",
         "live": "netlify link"
+    },
+    {
+        "image": "https://i.imgur.com/iT40CMe.png",
+        "name": "Project 3",
+        "description": "description",
+        "github": "github link",
+        "live": "netlify link"
+    },
+    {
+        "image": "https://i.imgur.com/iT40CMe.png",
+        "name": "Project 3",
+        "description": "description",
+        "github": "github link",
+        "live": "netlify link"
+    },
+    {
+        "image": "https://i.imgur.com/iT40CMe.png",
+        "name": "Project 3",
+        "description": "description",
+        "github": "github link",
+        "live": "netlify link"
     }
 ]

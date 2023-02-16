@@ -5,17 +5,18 @@ import styled from "styled-components"
 export const ProjectsContainer = styled.section`
 display: flex;
 flex-wrap: wrap;
+text-align: center;
+align-items: center;
 padding: 5%;
-justify-content: space-around;
 background-color: ${theme.color1};
-margin: auto;
+row-gap: 20px;
 `
 export const ProjectCard = styled.div`
 width: 30%;
 height: 320px;
 min-width: 290px;
 text-align: center;
-margin: 10px;
+margin: auto;
 border: 3px solid ${theme.color3};
 background-color: #fae29b;
 border-radius: 20px;
@@ -52,4 +53,8 @@ display: flex;
 margin: auto;
 padding-top: 15px;
 justify-content: space-around;
+`
+export const ProjectTitleContainer = styled.div`
+padding-top: 15px;
+align-items: center;
 `
