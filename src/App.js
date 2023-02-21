@@ -3,8 +3,10 @@ import { Bio } from "./components/bio";
 import Projects from "./components/projects";
 import Footer from "./components/footer";
 import Skills from "./components/skills";
+
 // eslint-disable-next-line
 import app from "./App.css"
+
 
 
 

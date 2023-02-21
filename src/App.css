@@ -1,8 +1,5 @@
 
 
-.App {
-  text-align: center;
-}
 
 .App-logo {
   height: 40vmin;
@@ -66,7 +63,7 @@ html {
   color: #FFFFFF;
   padding: 5px;
   margin: 0 auto;
-  margin-bottom: 15px;
+  margin-bottom: 80px;
   width: 30%;
   text-align: center;
   justify-content: center;
@@ -74,8 +71,11 @@ html {
 }
 
 img.logo {
-  transition: .2s;
+text-align: center;
+margin: auto;
+transition: .2s;
 }
+
 img.logo:hover{
   transform: scale(1.05);
   transition: .2s;
@@ -83,4 +83,7 @@ img.logo:hover{
 
 #bio {
   margin-bottom: 20px;
+}
+a:active {
+  color: yellow;
 }

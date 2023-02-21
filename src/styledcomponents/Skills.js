@@ -4,7 +4,7 @@ import theme from "../json/theme.json"
 export const SkillsContainer = styled.div`
 display: flex;
 flex-wrap: wrap;
-row-gap: 30px;
+row-gap: 50px;
 margin: 0 auto;
 margin-top: 40px;
 padding-bottom: 10px;
@@ -17,10 +17,8 @@ img {
 }
 .skillIcon{
     margin: auto;
-    justify-content: center;
     height: 50%;
     width: 250px;
-    align-items: center;
     transition: .2s;
     :hover {
         transform: scale(1.15);

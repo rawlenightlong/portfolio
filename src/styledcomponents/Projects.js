@@ -9,14 +9,14 @@ text-align: center;
 align-items: center;
 padding: 5%;
 background-color: ${theme.color1};
-row-gap: 20px;
+row-gap: 15px;
 `
 export const ProjectCard = styled.div`
 width: 30%;
-height: 320px;
+height: 350px;
 min-width: 290px;
 text-align: center;
-margin: auto;
+margin: 10px auto;
 border: 3px solid ${theme.color3};
 background-color: #fae29b;
 border-radius: 20px;
@@ -32,7 +32,7 @@ img {
 
 export const ProjectLink = styled.a`
 width: 100px;
-padding 2px;
+padding 5px;
 font-weight: 1800;
 background-color: ${theme.color1};
 text-decoration: none;
@@ -53,8 +53,19 @@ display: flex;
 margin: auto;
 padding-top: 15px;
 justify-content: space-around;
+
 `
 export const ProjectTitleContainer = styled.div`
-padding-top: 15px;
+
 align-items: center;
+background-color: #101935;
+height: 35px;
+color: #FFFFFF;
+padding: 5px;
+margin: 0 auto;
+margin-top: 100px;
+margin-bottom: 60px;
+width: 30%;
+text-align: center;
+border-radius: 20px;
 `

@@ -3,7 +3,7 @@ import theme from "../json/theme.json"
 
 export const BioContainer = styled.section`
 display: flex;
-text-align: center;
+
 background-color: ${theme.color1};
 padding: 30px;
 margin: auto;
@@ -14,8 +14,6 @@ margin-bottom: 80px;
 border-radius: 50px;
 border: 2px solid black;
 height: 720px;
-
-
 `
 export const BioImage = styled.img`
 height: 600px;
@@ -29,7 +27,7 @@ margin: 10px;
 
 export const BioDescriptionContainer = styled.section`
 width: 50%;
-text-align: center;
+
 margin: auto;
 font-size: 1.3rem;
 border: 2px solid black;
@@ -42,3 +40,5 @@ display: block;
 padding: 0px;
 height: 400px
 `
+export const BioBox = styled.div`
+height: 80px;`

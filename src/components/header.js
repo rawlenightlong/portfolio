@@ -9,11 +9,13 @@ import {BsPencil} from "react-icons/bs"
 
 export default function Header (props) {
     return (<>
-    <img class="logo" src="https://i.imgur.com/EEuBkkM.png" alt="logo" style={
+    <img className="logo" src="https://i.imgur.com/EEuBkkM.png" alt="logo" style={
         {
-            "width": "35%",
-            "align-items": "center",
-            "border-radius": "10px"
+            "width": "33%",
+            "justify-content": "center",
+            "border-radius": "10px",
+            "margin": "0 auto",
+            "display": "flex"
             }
         }/>
     <HeaderContainer>
