@@ -21,6 +21,12 @@ justify-content: space-around;
 flex-wrap: wrap;
 font-family: 'Comfortaa', cursive;
 font-size: 20px;
+@media all and (max-width: 545px){
+    display: flex;
+    justify-content: space-around;
+    row-gap: 10px;
+    
+}
 `
 
 export const NavLinkWrapper = styled.a`

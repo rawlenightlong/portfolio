@@ -2,7 +2,7 @@
 import { HeaderContainer } from "../styledcomponents/Header"
 import { NavContainer } from "../styledcomponents/Header"
 import { NavLinkWrapper } from "../styledcomponents/Header"
-import { AiOutlineProject } from "react-icons/ai"
+import { AiOutlineProject, AiOutlineMail } from "react-icons/ai"
 import {RxAvatar} from "react-icons/rx"
 import {BsPencil} from "react-icons/bs"
 
@@ -32,6 +32,10 @@ export default function Header (props) {
 
             <NavLinkWrapper href="#projects">
                 <div class="link"><AiOutlineProject/> Projects</div>
+            </NavLinkWrapper>
+
+            <NavLinkWrapper href="#contact">
+                <div><AiOutlineMail/> Contact</div>
             </NavLinkWrapper>
 
         </NavContainer>

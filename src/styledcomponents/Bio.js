@@ -14,7 +14,7 @@ border-radius: 60px;
 border: 2px solid black;
 height: 720px;
 @media all and (max-width: 1500px) {
-    width: 65%;
+    width: 95%;
     display: block;
     height: auto;
     text-align: center;
@@ -28,6 +28,10 @@ border: 3px solid black;
 border-radius: 60px;
 border: 2px solid black;
 margin: 10px;
+@media all and (max-width: 1500px) {
+    width: 70%;
+    height: auto;
+}
 
 ` 
 
@@ -35,12 +39,13 @@ export const BioDescriptionContainer = styled.section`
 width: 50%;
 margin: auto;
 font-size: 1.3rem;
-border: 2px solid black;
+
 border-radius: 10px;
 padding: 20px;
 @media all and (max-width: 1500px) {
-    width: 80%;
+    width: 90%;
     text-align: left;
+    font-size: 1.1rem
 }
 `
 
