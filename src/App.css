@@ -147,6 +147,6 @@ border-radius: 10px;
 @media all and (max-width: 820px){
   .emailform {
     width: 80%;
-    height: 80%;
+    height: 90%;
   }
 }
