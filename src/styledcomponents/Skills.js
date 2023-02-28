@@ -28,7 +28,7 @@ img {
 
 @media all and (max-width: 1500px) {
 .skillIcon{
-    width: 175px;
+    width: 150px;
 }
 }
   `

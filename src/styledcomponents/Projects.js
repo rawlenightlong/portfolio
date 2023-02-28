@@ -65,7 +65,7 @@ padding: 5px;
 margin: 0 auto;
 margin-top: 100px;
 margin-bottom: 60px;
-width: 30%;
+width: 40%;
 text-align: center;
 border-radius: 20px;
 `

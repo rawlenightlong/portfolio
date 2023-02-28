@@ -45,7 +45,8 @@ padding: 20px;
 @media all and (max-width: 1500px) {
     width: 90%;
     text-align: left;
-    font-size: 1.1rem
+    font-size: 1.15rem;
+    margin-bottom: 20px;
 }
 `
 
