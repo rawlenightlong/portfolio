@@ -25,4 +25,10 @@ img {
         transition: .2s;
     }
 }
+
+@media all and (max-width: 1500px) {
+.skillIcon{
+    width: 200px;
+}
+}
   `
