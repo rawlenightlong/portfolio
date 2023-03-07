@@ -18,7 +18,7 @@ img {
 .skillIcon{
     margin: auto;
     height: 50%;
-    width: 250px;
+    width: 225px;
     transition: .2s;
     :hover {
         transform: scale(1.15);
