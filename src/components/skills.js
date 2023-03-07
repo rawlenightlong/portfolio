@@ -21,6 +21,8 @@ export default function Skills(props){
            <div class="skillIcon"><h1><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/ExpressJS-Dark.svg" alt=''/></h1>Express.js</div>
            <div class="skillIcon"><h1><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JQuery.svg" alt=''/></h1>jQuery</div>
            <div class="skillIcon"><h1><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TailwindCSS-Dark.svg" alt=''/></h1>Tailwind</div>
+           <div className="skillIcon"><h1><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg" alt=''/></h1>Git</div>
+           <div className="skillIcon"><h1><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NextJS-Dark.svg" alt=''/></h1>NextJS</div>
            </SkillsContainer>
         </div>
     )

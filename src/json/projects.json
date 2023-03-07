@@ -1,11 +1,11 @@
-[
+[    
     {
-        "image": "https://i.imgur.com/iT40CMe.png",
-        "name": "Marvelous Movies",
-        "description": "An Express.js, MongoDB, & Node application where users can track their favorite movie quotes!",
-        "github": "https://github.com/rawlenightlong/movieQuotes",
-        "live": "https://moviequoteapp.onrender.com/"
-    },
+    "image": "https://i.imgur.com/MjhPnL1.jpg",
+    "name": "RawleTube",
+    "description": "React & Django / PostgresQL App for storing a user's favorite Youtube Videos!",
+    "github": "https://github.com/rawlenightlong/rtube",
+    "live": "https://rawletube.onrender.com/"
+        },
 
     {
         "image": "https://i.imgur.com/23F51K6.png",
@@ -13,28 +13,16 @@
         "description": "A React, Express, MongoDB, & Node app implementing Google Maps & Places API to catalog users' concerts/events.",
         "github": "https://github.com/rawlenightlong/cetamdfrontend",
         "live": "https://cetamdreact.netlify.app/"
-    },
+        },
 
     {
-        "image": "https://i.imgur.com/MjhPnL1.jpg",
-        "name": "RawleTube",
-        "description": "React & Django / PostgresQL App for storing a user's favorite Youtube Videos!",
-        "github": "https://github.com/rawlenightlong/rtube",
-        "live": "https://rawletube.onrender.com/"
-    },
-    {
-        "image": "https://i.imgur.com/dnmClpJ.jpg",
-        "name": "Bookmark'd",
-        "description": "Another React, Express, MongoDB, and Node app for sorting bookmarked websites!",
-        "github": "https://github.com/rawlenightlong/bookmarkfrontend",
-        "live": "https://bookmarkfrontend.onrender.com/"
-    },
-    {
         "image": "https://i.imgur.com/iT40CMe.png",
-        "name": "Project 3",
-        "description": "description",
-        "github": "github link",
-        "live": "netlify link"
-    }
+        "name": "Marvelous Movies",
+        "description": "An Express.js, MongoDB, & Node application where users can track their favorite movie quotes!",
+        "github": "https://github.com/rawlenightlong/movieQuotes",
+        "live": "https://moviequoteapp.onrender.com/"
+        }
+
+
     
 ]
