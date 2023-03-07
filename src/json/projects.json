@@ -2,7 +2,7 @@
     {
     "image": "https://i.imgur.com/MjhPnL1.jpg",
     "name": "RawleTube",
-    "description": "React & Django / PostgresQL App for storing a user's favorite Youtube Videos!",
+    "description": "React & Django / PostgresQL App implementing the YouTube API for storing a user's favorite Youtube Videos.",
     "github": "https://github.com/rawlenightlong/rtube",
     "live": "https://rawletube.onrender.com/"
         },
@@ -18,7 +18,7 @@
     {
         "image": "https://i.imgur.com/iT40CMe.png",
         "name": "Marvelous Movies",
-        "description": "An Express.js, MongoDB, & Node application where users can track their favorite movie quotes!",
+        "description": "An Express.js, MongoDB, & Node application where users can track their favorite movie quotes.",
         "github": "https://github.com/rawlenightlong/movieQuotes",
         "live": "https://moviequoteapp.onrender.com/"
         }
