@@ -24,7 +24,7 @@ padding: 10px;
 color: ${theme.color1};
 img {
     height: 50%;
-    width: 50%;
+    width: 70%;
     margin: 10px;
     border-radius: 10px;
 }
