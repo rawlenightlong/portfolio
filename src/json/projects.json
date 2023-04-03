@@ -1,4 +1,10 @@
-[    
+[    {
+    "image": "https://i.imgur.com/uPKtkBS.png",
+    "name": "Rawlify",
+    "description": "Full Stack NextJS, MongoDB, Express, & Node Spotify player utilizing the Spotify API.",
+    "github": "https://github.com/rawlenightlong/rawlifyback",
+    "live": "https://rawlify.vercel.app/"
+},
     {
     "image": "https://i.imgur.com/MjhPnL1.jpg",
     "name": "RawleTube",
