@@ -16,7 +16,7 @@ return (<>
     <br></br><br></br><br></br>
     
     <BioDescriptionContainer>
-        <h1 style={{"font-family": "'Comfortaa', cursive;"}}> {aboutus.name}</h1>
+        <h1 style={{"font-family": "'Comfortaa', cursive;"}}> {aboutus.name} - Full Stack Developer</h1>
         <h5>{aboutus.email}</h5>
         <br></br><br></br>
         <h3>About Me</h3>
