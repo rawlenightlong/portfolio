@@ -1,22 +1,18 @@
 [   {
-
     "image": "https://i.imgur.com/DoWvry5.png",
     "name": "RawleCar",
     "description": "Frontend NextJS/TypeScript Car Rental Portal.",
     "github": "https://github.com/rawlenightlong/cars",
     "live": "https://cars-liard.vercel.app/"
-
-},
+    },
     
-
-
-{
+    {
     "image": "https://i.imgur.com/uPKtkBS.png",
     "name": "Rawlify",
     "description": "Full Stack NextJS, MongoDB, Express, & Node Spotify player utilizing the Spotify API.",
     "github": "https://github.com/rawlenightlong/rawlifyback",
     "live": "https://rawlify.vercel.app/"
-},
+        },
     {
     "image": "https://i.imgur.com/MjhPnL1.jpg",
     "name": "RawleTube",
