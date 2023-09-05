@@ -2,7 +2,7 @@ import {BsBoxArrowInUpRight} from "react-icons/bs"
 import { FooterContainer } from "../styledcomponents/Footer"
 import { NavContainer } from "../styledcomponents/Footer"
 import { NavLinkWrapper } from "../styledcomponents/Header"
-import resume from "../assets/Resume.docx"
+import resume from "../assets/Resume.pdf"
 import {FaGithub} from "react-icons/fa"
 import {AiFillLinkedin} from "react-icons/ai"
 
