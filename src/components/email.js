@@ -45,7 +45,7 @@ export default function Email() {
             <textarea name="message" placeholder='Message' required value={userMessage} onChange={(e) => {
                 setUserMessage(e.target.value)
             }}/><br></br>
-            <input type="submit" value="Send Message" />
+            <input type="submit" value="Send Message" className="submitbuttonemail" />
          </form>
          </div>
     </div>

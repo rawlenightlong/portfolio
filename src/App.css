@@ -97,6 +97,11 @@ a:active {
  margin-bottom: 10px;
 }
 
+.submitbuttonemail {
+  background-color: 101935;
+  color: white;
+}
+
 .emailform {
 
  text-align: center;
