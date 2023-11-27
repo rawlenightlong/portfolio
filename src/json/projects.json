@@ -36,14 +36,6 @@
         "description": "A React, Express, MongoDB, & Node app implementing Google Maps & Places API to catalog users' concerts/events.",
         "github": "https://github.com/rawlenightlong/cetamdfrontend",
         "live": "https://cetamdreact.netlify.app/"
-        },
-
-    {
-        "image": "https://i.imgur.com/iT40CMe.png",
-        "name": "Marvelous Movies",
-        "description": "An Express.js, MongoDB, & Node application where users can track their favorite movie quotes.",
-        "github": "https://github.com/rawlenightlong/movieQuotes",
-        "live": "https://moviequoteapp.onrender.com/"
         }
 
 
