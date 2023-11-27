@@ -1,4 +1,13 @@
-[   {
+[   
+    {
+        "image": "https://i.imgur.com/gp4ndBB.png",
+        "name": "RawleGamer",
+        "description": "NextJS/TypeScript Video Game Discovery App.",
+        "github": "https://github.com/rawlenightlong/gamehub",
+        "live": "https://gamehub-gamma.vercel.app/"
+},
+    
+{
     "image": "https://i.imgur.com/DoWvry5.png",
     "name": "RawleCar",
     "description": "Frontend NextJS/TypeScript Car Rental Portal.",
