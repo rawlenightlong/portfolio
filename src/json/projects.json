@@ -2,7 +2,7 @@
     {
         "image": "https://i.imgur.com/osy3vwl.png",
         "name": "Sous Chef AI",
-        "description": "A NextJS, TypeScript, and Chat-GPT powered receipe generator.",
+        "description": "A mobile-first, NextJS, TypeScript, and Chat-GPT powered receipe generator.",
         "github": "https://github.com/rawlenightlong/souschefai",
         "live": "https://souschefai.onrender.com/"
     },
