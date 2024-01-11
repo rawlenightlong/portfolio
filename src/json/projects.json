@@ -1,5 +1,13 @@
 [   
     {
+        "image": "https://i.imgur.com/EIO6dDQ.png",
+        "name": "Sous Chef AI",
+        "description": "A NextJS, TypeScript, and Chat-GPT powered receipe generator.",
+        "github": "https://github.com/rawlenightlong/souschefai",
+        "live": "https://https://souschefai.onrender.com//"
+    },
+
+    {
         "image": "https://i.imgur.com/gp4ndBB.png",
         "name": "RawleGamer",
         "description": "NextJS/TypeScript Video Game Discovery App.",
