@@ -1,10 +1,10 @@
 [   
     {
-        "image": "https://i.imgur.com/EIO6dDQ.png",
+        "image": "https://i.imgur.com/osy3vwl.png",
         "name": "Sous Chef AI",
         "description": "A NextJS, TypeScript, and Chat-GPT powered receipe generator.",
         "github": "https://github.com/rawlenightlong/souschefai",
-        "live": "https://https://souschefai.onrender.com//"
+        "live": "https://souschefai.onrender.com/"
     },
 
     {
@@ -18,7 +18,7 @@
 {
     "image": "https://i.imgur.com/DoWvry5.png",
     "name": "RawleCar",
-    "description": "Frontend NextJS/TypeScript Car Rental Portal.",
+    "description": "NextJS/TypeScript Car Rental Portal.",
     "github": "https://github.com/rawlenightlong/cars",
     "live": "https://cars-liard.vercel.app/"
     },
